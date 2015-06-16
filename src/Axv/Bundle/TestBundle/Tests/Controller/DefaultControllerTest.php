@@ -19,4 +19,9 @@ class DefaultControllerTest extends WebTestCase
         
         $this->assertTrue(false);
     }
+    
+    public function testFeature2(){
+        
+        $this->assertTrue(false);
+    }
 }
