@@ -21,7 +21,7 @@ class DefaultControllerTest extends WebTestCase
     }
     
     public function testFeature2(){
-        
+        //New comment
         $this->assertTrue(false);
     }
 }
